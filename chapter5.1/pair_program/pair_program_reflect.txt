@@ -1,0 +1,19 @@
+<name>Tahmidul Alam</name>
+<assignmentname>Pair Programming Reflection</assignmentname>
+<date>March 24, 2018</date>
+:
+1. How did you enjoy the pair programing experience?
+    The pair programming experience was really fun. Even though my partner knew a lot of new concepts that I didn't know about,
+    the opportunity of learning new things and overcoming obstacles was really enjoyable.
+2. Did you feel you had equal time with your partner acting as driver and navigator?
+    I did have equal time with my partner acting as driver and navigator. While I was in charge of handling the HTML/CSS portion
+    of the program, my partner was able to provide feedback on my work when I struggled. I wasn't able to stay on par with my
+    partner but I did manage to give advice rather than code to help out with the coding process.
+3. Do you feel the project ended up with higher quality code?
+    The project did end up with higher quality code because while the JavaScript was 317 lines, the use of classes and constructors
+    were a good way to store player and enemy information (health, strength, etc.). The CSS involved centering images, creating
+    a CSS Grid, and the layout of the game. These qualities were really thought well and made well.
+4. Do you feel you learned the same, less, or more while working with a partner?
+    I learned more while working with a partner. No matter what partner I have, I would most likely learn something new, as I would
+    learn a new thing my partner researched that I haven't found yet. With little research and vigorous collaboration, I am bound to
+    learn something new while working with a partner.

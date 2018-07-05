@@ -1,0 +1,16 @@
+<name>Tahmidul Alam</name>
+<assignment>Bubbles Reflection</assignment>
+<date>March 29, 2018</date>
+:
+1. What is a JavaScript object?
+    A JavaScript object is a physical property that we are trying to create. In other words, a car is considered to be an object.
+We can use the object car and talk about the properties of the car (e.g. the brand, the color, the type).
+2. What is the advantage of using objects?
+    Using objects help save local properties into a variable. In the example of the car, we can create an object called car and
+store some parameters like the color, the type, and others. In doing so, we can access these parameters that are saved. In this
+assignment, we have to refer back to local saved information in order to make our object come to life with p5.js.
+3.  Did you have any struggles implementing this program, or understanding how to use objects?
+    Creating objects were really easy for me. The struggles I had were implementing a class and a constructor function since this
+is my first time working with p5. After I viewed a tutorial with Dan Shiftman from NYU, I was able to learn about classes and
+implementing constructor functions. The constructor function pretty much creates the object for me when I say new
+object(parameters). In such a manner, I was able to create my bubbles animation.

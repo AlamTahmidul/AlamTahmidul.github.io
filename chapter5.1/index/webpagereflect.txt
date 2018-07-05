@@ -1,0 +1,17 @@
+<name>Tahmidul Alam</name>
+<assignmentname>Web-Page Reflection</assignmentname>
+<date>March 20, 2018</date>
+:   Programming websites are one of the best ways to store all of your information online. This tells the job market and college
+that you are very organized and can provide with relevant information upon request. While websites, itself, are like a online
+cloud storage for your life, creating one is one of the steps you would take in order to become organized. I have made a website
+before, but that was 3 years ago when I really used to code back then. Games diverted my attention away, but who cares. Making the
+website again was fun because I was able to display my true self online and was able to really customize the way my website looks.
+While this website was for a class assignment, I kept the information to a minimum, to show some basic understanding of how
+I am able to code with logic and with a plan.
+    Of course, every coding experiences comes with frustration. I struggled with centering an image on the webpage (before I was
+introduced to CSS Grid). I had to use margin: auto; on both left and right to center the image. I experienced other problems as well,
+such as calling a custom font from the link (not from Google Fonts). To fix this issue, I downloaded the font and imported it into
+my Cloud9 library. Then, I called up the function in my HTML file. After I re-ran the website, the custom font loaded, and all
+was fixed. Other errors such as changing colors were simple fixes (I had the color name misspelled). After all the errors were
+fixed, my website was ready to be handed in. All that's left is putting a link and add a list. I incorporated these final touches
+and finished creating my website. This is how I made my website.
