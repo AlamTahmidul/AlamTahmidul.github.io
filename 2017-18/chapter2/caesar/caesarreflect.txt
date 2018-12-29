@@ -1,0 +1,23 @@
+<name>Tahmidul Alam</name>
+<date>January 19, 2018</date>
+<assignmentname>Caesar Reflection</assignmentname>
+:   Caesar is a program that encrypts a plaintext into a new code that is converted
+based on a fixed number of characters. In other words, if your plaintext is hello
+and you want it to encrypt all of the letters by 5 letters, your output would be
+mjqqt, which is 5 letters apart from each letter in hello (h + 5 = m, and so
+forth).
+    I checked first if my input was valid. So the argument count must be exactly
+2, nothing more nothing less. Another valid input for argv[1] must not be less than
+0, as you cannot subtract letters based on ascii value (then the final output's
+ascii value would not correspond to an alphabet letter). Next, I thought about how the
+letters would get turned based on argv[1]. For such method to occur, I need a loop that
+would turn each of the characters in the plaintext and convert into ciphertext. To do
+this, I implemented the equation c = (pi + k) mod 26 + 'a' (for lowercase letters or
+c = (pi + k) mod 26 + 'A' (for uppercase letters). The equation:  c = (pi + k) mod 26,
+by itself, can;t be used to rotate the letters as the function gets modded by 26, the
+output value would be an ASCII number that is not an alphabet. The output would simply
+represent how far the letter in from 'a' or 'A' depending on the condition. This is
+where I had to implement 'a' or 'A'. Otherwise, the output would just be the letter it
+currently is. The development process itself was done alone, but I had to look at videos
+to further understand the thought process behind Caesar.
+    This is how I made Caesar.

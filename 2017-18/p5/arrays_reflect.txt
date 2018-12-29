@@ -1,0 +1,14 @@
+<name>Tahmidul Alam</name>
+<assignmentname>Bubbles: Arrays Reflection</assignmentname>
+<date>April 13, 2018</date>
+:   Creating multiple bubbles using an array is really easy. Since you only have to change how many bubbles you want to make in the
+canvas, using an array would give you a straightforward answer. Arrays can store very big numbers and are very efficient in keeping
+a long list of items together. To create the array of bubbles, I defined an array called bubbles and put [] around it. This refers
+to a blank error because I didn't place anything in there. However, you can add arrays with a p5 convention called push. This
+command would place a new array into the data after the previous one and so forth. I placed them in the setup, inside a for loop,
+and defined new x, y, and r based on my bubble class and a constructor function. In doing so, all I had to do was change the
+number of bubbles I wanted in the for loop, and the overall change would be implemented. After I finished creating a basic foundation
+of bubbles, I began to explore extensions to the bubbles assignment. I had a hard time implementing a bounce function. After receiving
+help from the p5 references page, I was able to implement the bounce function. I added speed and used if statements to check for
+colliding with the edges of the canvas and reverse acceleration.
+    This is how I made Bubbles: arrays.

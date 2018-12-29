@@ -1,0 +1,93 @@
+================================================.
+     .-.   .-.     .--.                         |
+    | OO| | OO|   / _.-' .-.   .-.  .-.   .''.  |
+    |   | |   |   \  '-. '-'   '-'  '-'   '..'  |
+    '^^^' '^^^'    '--'                         |
+===============.  .-.  .================.  .-.  |
+               | |   | |                |  '-'  |
+               | |   | |                |       |
+               | ':-:' |                |  .-.  |
+               |  '-'  |                |  '-'  |
+==============='       '================'       |
+
+Tahmidul Alam
+October 28, 2018
+PSET3 Reflection
+
+To create Find, PSET3 of Harvard's CS50AP curriculum, I
+had to create a search and a sort algorithm. Here is
+the way I did it:
+
+    1. Under helpers.c, I was tasked to make a search and a
+    sorting algorithm.
+    2. For the search, I made a binary search algortihm, as
+    asked by the program specifications.
+    3. For the binary search algorithm, I need a starting
+    and an ending index of the array. If there are n numbers
+    in the array, I need the starting index which is 0 and the
+    last number which is n - 1.
+    4. Now, I will use a while loop to iterate through the array
+    and search for my number.
+    5. First, I need to divide the array by half with a variable
+    called halfway_point.
+        Note: I'm not halving the array, I'm just checking each halves
+        of the array to see on which half the value might fall under.
+    6. I used a if statement to check if the value that I am looking for
+    is exactly in the center. If it is, I return true and tell the computer
+    that the value is in the median of the array.
+    7. I used a else-statement to check if the value I am looking for is
+    in the first-half of the array.
+        Note: If there are n values in the array, I'm checking the first-half
+        or 0 to n/2th index of the array.
+    8. I used a else to tell the program to check if the value is to the right
+    of the n/2th element of the array.
+        Note: Or rather: From n/2 to n-1th index.
+    9. If the value is there, then return true.
+    10. Otherwise, the value I was looking for is not in the array.
+    11. This procedure for search must work out if the array is sorted.
+    12. The sort algorithm was pretty challening to implement. The code I had
+    was a collaborative development. In class, we went over the Pseudocode for
+    bubble sort. In addition, we had bubble sort coding done on CS50 sandbox to
+    test our knowledge of converting pseudocode into syntax code in C.
+    13. Bubble sort required comparing 2 values at a time and is represented by
+    a time complexity O(n^2) algorithm. In other words, in the worst case scenario,
+    Bubble Sort would take n^2 longer to sort in comparison with a linear type of sort.
+        Challenge: The problem I had with this was implementing the algorithm by itself.
+        I understood the pseudocode, but the syntax for the while loop was hard to understand.
+        We went over it during class (collaborative development/classwork) and I understood what
+        the while loop did: comparing if the current value was greater than the next value).
+    14. Bubble sort was implemented starting with a for loop. I have to compare two values,
+    so using a for loop seemed to be a good option.
+    15. I am iterating from the 1st value all the way to the value in the index of n-1.
+    16. I created a temporary variable called element to store each value and check with the
+    value.
+    17. I created a j counter for checking the next value (since i is the previous value).
+        Opportunity: I originally used a for loop to iterate through the next set of values (if
+        current value is i, then the next value would be j = i + 1). I thought I would use this
+        for the purpose of understanding the logic behind comparing the values, but it was unnecessary.
+        A while loop covered up the for-loop and it was much more clear to read. I used a for loop
+        to understand the logic of bubble-sorting (comparing the values).
+    18. If the next value was greater than the current value, swap them and subtract 1 from
+    the j-counter. Then set the value into element.
+        Note: Keeping the value into element helps us check the current value (after sort)
+        and compares it with the next.
+    19. Continue the loop until all the numbers in the array is in order.
+    20. Since it's a void function, we don't return anything.
+
+Creating the sorting algorithm was no easy task for me. It was an algorithm that required a lot of thinking
+before implementing. Luckily, using a sort and a search funciton kept the overall code clean and easier to read.
+Of course, I was able to debug efficiently and without searching for where there was a problem (if I didn't
+use a function that is).
+
+This is how I implemented a binary search and a bubble sort in find.c
+
+
+
+
+__________________|      |_______________________
+     ,--.    ,--.          ,--.   ,--.
+    |oo  | _  \  `.       | oo | |  oo|
+o  o|~~  |(_) /   ;       | ~~ | |  ~~|o  o  o  o
+    |/\/\|   '._,'        |/\/\| |/\/\|
+__________________        _______________________
+                  |      |

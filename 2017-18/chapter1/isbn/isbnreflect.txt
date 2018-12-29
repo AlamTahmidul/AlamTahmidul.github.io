@@ -1,0 +1,13 @@
+<name>Tahmidul Alam</name>
+<assignmentname>ISBN Reflection</assignmentname>
+:   ISBN validates a 10-digit ISBN Number. To create this program, I must first find an algorithm that must check
+each digit of the ISBN number. To do so, I used a for loop to repeat the multiple things. First, I wanted to deal with
+the last digit of the ISBN code. I used isbn % 10 to give me that last digit. Then, I would multiply this last digit by
+10, then the next digit by 9 and so forth until the first digit is multiplied by 0. Then, I would sum up the results
+from these products. Before the end product comes, I used a for loop to repeat the previous descriptions about the
+digits such that the program repeats itself 10 times rather than put 10 different sets of lines of code. Next, I used
+a if-else conditional to check if the sum of these products mod 11 would give me 0, according to the program
+specifications. If it did, it would print "YES", otherwise the print would be "NO". In creating the program, I messed up
+on multiplying the last digit by 10. Instead, I multiplied by 0 then worked my way back where I multiply the first digit
+by 10, which is the opposite of what I was supposed to do. So, instead of i++ and i = 0, I changed it to i-- and i = 10.
+This is how I created ISBN.
