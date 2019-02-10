@@ -20,15 +20,6 @@ I will be working on other projects and will be posting them in the **projects**
 
 ```markdown
 # 2017-18
-
-1. 
-
 # 2018-19
-
-1. 
-
 # projects
-
-1. 
-
 ```
