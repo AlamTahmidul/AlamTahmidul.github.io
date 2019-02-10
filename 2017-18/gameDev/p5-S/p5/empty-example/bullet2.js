@@ -10,7 +10,7 @@ function Bullet2(x, y) {
     this.passes = function(lol) {
         var dl = dist(this.x, this.y, lol.x, lol.y);
         return (dl < this.r + lol.r);
-    }
+    };
     this.touches = function(player1) {
         var dis = dist(this.x, this.y, player1.x, player1.y);
         if (dis < (this.r + player1.s)) {
