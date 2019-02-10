@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Programming
 
-You can use the [editor on GitHub](https://github.com/AlamTahmidul/AlamTahmidul.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The projects done in this **repository** are written in:
+```markdown
+1. C
+2. HTML/CSS
+3. JavaScript (JS)
+  - P5 Library
+  - Regular JS
+4. Python
+  - Flask
+```
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some programs in the 2018-19 folder are remade from the 2017-18 folder. If they are the same, assume that the newer program is remade.
 
-### Markdown
+I will be working on other projects and will be posting them in the **projects** folder. They are personal projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contents
 
 ```markdown
-Syntax highlighted code block
+# 2017-18
 
-# Header 1
-## Header 2
-### Header 3
+1. 
 
-- Bulleted
-- List
+# 2018-19
 
-1. Numbered
-2. List
+1. 
 
-**Bold** and _Italic_ and `Code` text
+# projects
 
-[Link](url) and ![Image](src)
+1. 
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlamTahmidul/AlamTahmidul.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
