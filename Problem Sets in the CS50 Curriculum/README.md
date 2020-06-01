@@ -18,4 +18,4 @@
 ```
 
 ## Description
-    These problems were remade without the ***<cs50.h>*** library.
+    These problems were remade without the `<cs50.h>` library.
