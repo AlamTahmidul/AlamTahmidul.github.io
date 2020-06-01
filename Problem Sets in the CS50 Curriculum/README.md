@@ -1,6 +1,6 @@
 # Problem Sets
 ```markdown
-    - **Set 1**
+    - Set 1
         - Hello
         - Fahrenheit
         - Pennies
@@ -8,7 +8,7 @@
         - Mario
         - Credit
         - ISBN
-    - **Set 2** 
+    - Set 2
         - Calculator
         - Initials
         - Caesar
@@ -18,4 +18,4 @@
 ```
 
 ## Description
-    These problems were remade without the ```markdown <cs50.h>``` library.
+    These problems were remade without the ***<cs50.h>*** library.
