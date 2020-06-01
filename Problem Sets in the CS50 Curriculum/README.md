@@ -1,6 +1,6 @@
-# Problem Sets
+## Problem Sets
 ```markdown
-    - Set 1
+    *- Set 1*
         - Hello
         - Fahrenheit
         - Pennies
@@ -18,4 +18,4 @@
 ```
 
 ## Description
-    These problems were remade without the `<cs50.h>` library.
+    These problems were remade without the `cs50.h` library.
