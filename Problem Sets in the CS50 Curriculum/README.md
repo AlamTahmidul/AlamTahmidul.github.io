@@ -2,14 +2,10 @@
 
 **Set 1**
 ```
-    - Hello
-        - Prints "Hello World!" into the console
     - Fahrenheit
         - Converts a temperature in fahrenheit to celsius
-    - Pennies
-        - Finds the minimum number of coins needed to make an amount (user input)
     - Greedy
-        - 
+        - Finds the minimum number of coins needed to make an amount (user input)
     - Mario
         - Creates a Tower-like display like in the game mario
     - Credit
@@ -28,8 +24,6 @@
         - Cypher encrypted with number-shift
     - Vigenere
         - Cypher encrypted with letter-shift
-    - Friends
-        - TODO
     - Whodunit
         - Modifies a certain image to find the answer in the picture
 ```
