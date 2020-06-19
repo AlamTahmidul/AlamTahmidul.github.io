@@ -1,3 +1,3 @@
-# Train Problem
+# Grocery
 
-Given 
+In a modern day grocery store, the owner has to keep track of the products they want to sell (he/she wants to do an inventory). The user inputs the inventory in the form of .txt or by manual input (the user gets prompted for each additional individual item(s) the user wants to add). The list gets serialized when the user leaves and gets imported automatically by the program. If the user wants to place 1 or multiple deliveries, on the day of delivery the user gets prompted that their delivery has arrived.
