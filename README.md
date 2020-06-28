@@ -9,7 +9,6 @@ Java, C, HTML/CSS, JavaScript, Python
 The recent programs are made in Java and it's the current language that I am coding with. Some of my other projects will be in different repositories.
 
 ## Contents
-```markdown
 - [x] 2017-18
   - [x] Harvard's CS50 Curriculum (C with CS50 IDE)
     - [x] Creating a Mario Tower
@@ -46,4 +45,3 @@ The recent programs are made in Java and it's the current language that I am cod
   - [x] Donors
   - [x] Grocery
   - [x] Train Stations
-```
