@@ -1,9 +1,5 @@
-# Programming
+# My Programming Journey
 
-The projects done in this **repository** are written in:
-```markdown
-Java, C, HTML/CSS, JavaScript, Python
-```
 ## Description
 
 The recent programs are made in Java and it's the current language that I am coding with. Some of my other projects will be in different repositories.
@@ -21,7 +17,7 @@ The recent programs are made in Java and it's the current language that I am cod
 </details>
 
 <details>
-<summary>CS50 Revisited</summary>
+<summary>CS50 Revisited (C)</summary>
 
   - [x] Harvard's CS50 Curriculum (C)
     - [x] Mario Tower Revisited
@@ -31,7 +27,7 @@ The recent programs are made in Java and it's the current language that I am cod
 </details>
 
 <details>
-<summary>2018-19</summary>
+<summary>CS50 Curriculum (C/Python with CS50 IDE) and Game Programming with Unreal Engine</summary>
 
   - [x] Harvard's CS50 Curriculum (C with CS50 IDE/Python)
     - [x] Mario Tower revisited
@@ -49,7 +45,7 @@ The recent programs are made in Java and it's the current language that I am cod
   </details>
 
 <details>
-  <summary>2017-18</summary>
+  <summary>CS50 Curriculum (C with CS50 IDE) and Game Programming with JavaScript/Unreal Engine</summary>
 
   - [x] Harvard's CS50 Curriculum (C with CS50 IDE)
     - [x] Creating a Mario Tower
