@@ -10,7 +10,7 @@ The recent programs are made in Java and it's the current language that I am cod
 
 ## Contents (Recent First)
 <details>
-<summary>- [x] Data Structures and Algorithms (Java)</summary>
+<summary>Data Structures and Algorithms (Java)</summary>
 
   - [x] Calculator
   - [x] Create Your Adventure (and play the game)
@@ -21,7 +21,7 @@ The recent programs are made in Java and it's the current language that I am cod
 </details>
 
 <details>
-<summary>- [x] CS50 Revisited</summary>
+<summary>CS50 Revisited</summary>
 
   - [x] Harvard's CS50 Curriculum (C)
     - [x] Mario Tower Revisited
@@ -31,7 +31,7 @@ The recent programs are made in Java and it's the current language that I am cod
 </details>
 
 <details>
-<summary>- [x] 2018-19</summary>
+<summary>2018-19</summary>
 
   - [x] Harvard's CS50 Curriculum (C with CS50 IDE/Python)
     - [x] Mario Tower revisited
@@ -49,7 +49,7 @@ The recent programs are made in Java and it's the current language that I am cod
   </details>
 
 <details>
-  <summary>- [x] 2017-18</summary>
+  <summary>2017-18</summary>
 
   - [x] Harvard's CS50 Curriculum (C with CS50 IDE)
     - [x] Creating a Mario Tower
