@@ -1,12 +1,6 @@
 import java.io.Serializable;
 
 /**
- *  @name Tahmidul Alam
- *  @ID 112784865
- *  @email tahmidul.alam@stonybrook.edu
- *  @course CSE 214
- *  @recitation Recitation 10 (Daniel Calabria)
- *
  * Main class for Patient and Donor info
  */
 public class Patient implements Serializable, Comparable {

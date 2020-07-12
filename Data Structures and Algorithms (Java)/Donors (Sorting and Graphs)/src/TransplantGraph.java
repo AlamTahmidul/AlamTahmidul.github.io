@@ -5,12 +5,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *  @name Tahmidul Alam
- *  @ID 112784865
- *  @email tahmidul.alam@stonybrook.edu
- *  @course CSE 214
- *  @recitation Recitation 10 (Daniel Calabria)
- *
  * Main class for donor-recipient connection
  */
 public class TransplantGraph implements Serializable {

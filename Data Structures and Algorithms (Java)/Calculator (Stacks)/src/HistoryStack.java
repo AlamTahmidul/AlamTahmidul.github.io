@@ -1,13 +1,5 @@
 /**
- * @name Tahmidul Alam
- * @ID 112784865
- * @email tahmidul.alam@stonybrook.edu
- * @course CSE 214
- * @recitation Recitation 10 (Daniel Calabria)
- */
-
-/**
- *
+ *  Class that keeps track of Calculator history
  */
 public class HistoryStack {
     private ExtendedEquationStack s;
@@ -16,7 +8,7 @@ public class HistoryStack {
     private int size;
 
     /**
-     *
+     * Default Constructor
      */
     public HistoryStack() {
         this.s = new ExtendedEquationStack();
@@ -181,14 +173,15 @@ public class HistoryStack {
 }
 
 /**
- *
+ * Custom Exception if there are no more undos
  */
 class NoLastUndoneEquationException extends Exception {
     public NoLastUndoneEquationException() {}
 }
 
 /**
- *
+ * Custom Exception if the user tries to access a hisory number not
+ *  present in history
  */
 class PositionOutOfRangeException extends Exception {
     public PositionOutOfRangeException() {}

@@ -1,13 +1,5 @@
 /**
- * @name Tahmidul Alam
- * @ID 112784865
- * @email tahmidul.alam@stonybrook.edu
- * @course CSE 214
- * @recitation Recitation 10 (Daniel Calabria)
- */
-
-/**
- *
+ * Equation class
  */
 public class Equation {
     private String equation;
@@ -18,7 +10,7 @@ public class Equation {
     private String hex;
 
     /**
-     *
+     *  Default Constructor
      */
     public Equation() {
         this.equation = "";

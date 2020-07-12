@@ -1,16 +1,8 @@
-/**
- * @name Tahmidul Alam
- * @ID 112784865
- * @email tahmidul.alam@stonybrook.edu
- * @course CSE 214
- * @recitation Recitation 10 (Daniel Calabria)
- */
-
 import java.util.EmptyStackException;
 import java.util.Scanner;
 
 /**
- *
+ *  Main class for Calculator
  */
 public class Calculator {
     public static void main(String[] args) {

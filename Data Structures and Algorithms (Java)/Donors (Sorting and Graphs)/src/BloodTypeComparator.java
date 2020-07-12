@@ -1,12 +1,6 @@
 import java.util.Comparator;
 
 /**
- *  @name Tahmidul Alam
- *  @ID 112784865
- *  @email tahmidul.alam@stonybrook.edu
- *  @course CSE 214
- *  @recitation Recitation 10 (Daniel Calabria)
- *
  *  Class for BloodType Sort
  */
 public class BloodTypeComparator implements Comparator<Patient> {

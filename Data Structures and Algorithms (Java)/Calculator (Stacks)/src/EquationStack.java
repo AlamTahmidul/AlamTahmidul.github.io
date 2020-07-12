@@ -1,22 +1,11 @@
 /**
- * @name Tahmidul Alam
- * @ID 112784865
- * @email tahmidul.alam@stonybrook.edu
- * @course CSE 214
- * @recitation Recitation 10 (Daniel Calabria)
- */
-
-/**
- *
+ *  EquationStack class
  */
 public class EquationStack {
-    /**
-     *
-     */
     private ExtendedStringStack s;
 
     /**
-     *
+     *  Default Constructor
      */
     public EquationStack() {
         this.s = new ExtendedStringStack();
